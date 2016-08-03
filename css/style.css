@@ -10,6 +10,7 @@ h3 {
 .column {
   padding-right: 10px;
   float: left;
+  background-color: aqua;
 }
 
 img {
